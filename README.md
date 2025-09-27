@@ -50,7 +50,7 @@ The dashboard was built using the following tools and technologies:
 ---
 
 ## 7. Dashboard Snapshot  
-![Dashboard Snapshot](https://github.com/Abishek0024/Indian-kids-screen-time_-dashboard/blob/main/Indian%20kids%20screen%20time%20snapshot.pngdashboard/snapshot.png)  
+![Dashboard Snapshot]--
 
 ---
 
